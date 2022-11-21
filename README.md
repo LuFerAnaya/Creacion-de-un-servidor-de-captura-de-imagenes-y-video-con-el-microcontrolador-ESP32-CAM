@@ -1,10 +1,15 @@
-Universidad Tecnológica de México       Procesamiento Digital de imágenes
+Universidad Tecnológica de México      
+Procesamiento Digital de imágenes
 
-Nombre del Alumno: Israel Tovar Barrera     Matricula 21128157
+Nombre del Alumno:  
+Petriciolet Cortes Josue Michel         Matricula 20922674
+Santa Cruz Hernández Logan Diego        Matricula 20580787
+Tovar Barrera Israel                    Matricula 21128157
+Vargas Anaya luisa Fernanda             Matricula 14899294
 Ingeniería en sistemas computacionales
 Grupo:  EC08S
 Profesor: M. En C. Raymundo Soto Soto
-Practica 2
+Práctica: #3
 Título de la practica: Creación de un servidor de captura de imágenes y vídeo con el microcontrolador ESP32 CAM.
 Fecha de entrega: 12 / 11 / 2022
 
